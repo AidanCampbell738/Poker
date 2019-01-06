@@ -1,4 +1,4 @@
-# Poker-ISU
+# Poker
 Main file is "Poker.java"
 
 The files called "Agressive", "Normal", "Conservative", and "Irrational" control the different computer player types.
